@@ -78,6 +78,7 @@ don't forget to mention the overhead projector
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy. ]
 
+Describe the pedagogy of/from CodeHS
 
 ### Impacts
 
@@ -86,4 +87,6 @@ describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts. ]
 
-Pull from CDE
+Pull from CDE resources
+
+Are there are "media" sources for quoting?
