@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5674319&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-This Educational Technology Plan provides the outline for the implementation of a one-year high school level computer science course.  The course meets all of the California Computer Science Standards.
+This Educational Technology Plan provides the outline for the implementation of a one-year high school computer science course.  The course meets all of the California Computer Science Standards.
 
 ## Context
 
@@ -54,10 +54,10 @@ installed as well as any online services. ]
     * The main source of course content.  Through prepared resources such as video tutorials, example programs, short quizzes and written exercises, students will have interactive and dynamic activities to engage with.  CodeHS further provides offline handouts for additional practice opportunities.
 
   * Google Workspace for Education
-    * Applications such as Classroom, Slides, Docs and Drive will be utilized for communication and collaboration.
+    * Applications such as, but not limited to: Classroom, Slides, Docs and Drive will be utilized for sharing information and for collaboration.
 
   * Synergy Student Information System
-    * The portal for staff, student and parent communication.  This will be used as the online gradebook and the centralized tool for email communications.
+    * The portal for staff, student and parent communication.  This will be used as the online gradebook and the centralized method for communications.
 
 
 ### Hardware Specifications
@@ -66,6 +66,8 @@ installed as well as any online services. ]
 wherever necessary. ]
 
 **Teacher**
+
+don't forget to mention the overhead projector
 
 **Student**
 
@@ -76,9 +78,12 @@ wherever necessary. ]
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy. ]
 
+
 ### Impacts
 
 [ How will the technology help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts. ]
+
+Pull from CDE
