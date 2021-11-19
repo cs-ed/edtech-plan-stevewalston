@@ -42,11 +42,6 @@ Ninth grade students are required to take a one-semester course named Tech Essen
 ## Plan
 
 ### Software Specifications
-
-[ Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services. ]
-
 *All software is cloud-based and requires an internet connection*
 
   * CodeHS.com
@@ -61,12 +56,26 @@ installed as well as any online services. ]
 
 ### Hardware Specifications
 
-[ Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary. ]
+The NHUHSD provides the following for students and teachers:
 
 **Teacher**
 
-don't forget to mention the overhead projector
+Asus ExpertBook
+ * Processor: 10th Gen Intel Core i7, 1.8 GHz Quad Core
+ * Memory: 16 GB Ram, 512 GB SSD
+ * Display: 14" FHD LED
+ * Wireless: Wi-Fi 6 or 802.11ax
+
+Acer Monitor
+ * Display: 23.8" FHD LED
+
+Aver U50 Document Camera
+ * Camera: 5MP resolution for projection and stills
+ * Video: 30 fps
+
+NEC PE455UL Projector
+ * Long life laser diode
+ * Supports up to 4K resolution
 
 **Student**
 
