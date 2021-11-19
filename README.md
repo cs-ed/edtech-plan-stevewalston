@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5674319&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-This Educational Technology Plan provides the outline for the implementation of a one-year high school computer science course that meets all of the current California Computer Science Standards and is approved as a University of California A-G course.
+This Educational Technology Plan provides the outline for the implementation of a one-year high school computer science course that meets all of the current California Computer Science Standards and may be approved as a University of California A-G course.
 
 ## Context
 
@@ -28,7 +28,7 @@ This course is an introduction to many facets of computer science and is intende
 
 ### McKinleyville High School
 
-McKinleyville High School is one of two comprehensive high schools in the Northern Humboldt Union High School District which serves approximately ##### students.  McKinleyville High's enrollment is #####.  The county is made up of a patchwork of small, often single school, districts and it is common that families shop around for the schools to attend.  The effect of this is that the enrollment at MHS has been in decline for years, with many students within our boundaries choosing to attend our sister high school due to a larger offering of courses, specifically a robust fine arts and makers program.  In recent years, MHS has added a few new courses such as an architectural design and a culinary class.  One of our goals is to continue to offer new courses that will benefit our current students and attract new ones.
+The Northern Humboldt Union High School District serves approximately 1800 students and is comprised of two comprehensive high schools.  On the two campuses there are also two continuation high schools and one charter high school.  McKinleyville High's enrollment is approximately 550 and is the smaller of the two comprehensive high schools.  Of note, the county is made up of a patchwork of small, often single school, districts and it is common that families shop around for the schools to attend.  The effect of this is that the enrollment at MHS has been in decline for years, with many students within our boundaries choosing to attend our sister high school due to a larger offering of courses, specifically a robust fine arts and makers program.  In recent years, MHS has added a few new courses such as an architectural design and a culinary class, though the decline in enrollment continues.  One of our goals is to continue to offer new courses that will benefit our current students and attract new ones.
 
 The current enrollment trend highlights one constraint.  After students register for classes, the process of creating a course schedule for the next school year is a complex puzzle.  Many courses such as advanced science and higher level language are only offered once each day so there are often conflicts when trying to find times for elective courses.  The end result is that it is quite possible that students interested in Computer Science would be unable to take the course if the time period conflicts with another they want.
 
@@ -90,7 +90,13 @@ Samsung XE310XBA Chromebooks
 
 **Communication**
 
-Google Classroom will be used daily to post and maintain a record of the daily topics.  Information about assignments, due dates and methods of delivery will be addtional elements within each post.  Students will be able to send private messages to the teacher and publish public comments to the class regarding the daily post.
+Google Classroom will be used daily to post and maintain a record of the daily topics.  Information about assignments, due dates and methods of submitting deliverables will be addtional elements within each post.  Students will be able to send private messages to the teacher and publish public comments to the class regarding the daily posts.
+
+Students will use other applications in the Google Workspace regularly.  The daily use of school email accounts is expected of all students for receiving school-related information and for communication with teachers and staff.  Google Drive will be actively used as the location to maintain school-related files.  Students will be expected to create Docments, Sheets, Slides, Forms and Groups in their Drive and upload photos or scans of their work to Drive to facilitate the submitting of deliverables.
+
+The district's school information system, Synergy, has been used for years and at this point in time, both students and parents are comfortable navigating within thier respective portals.  Synergy is the central location for all grade-related information and provides another method of initiating email communication.  Teachers regularly use Synergy for sending emails to combinations (whole-class or subgroups) of students and/or parents.  Synergy also provides up-to-date information for staff, academic counselors and administrators regarding student grades and any disciplinary communications with students that teachers log within the portal.
+
+**Content Delivery**
 
 
 ### Impacts
