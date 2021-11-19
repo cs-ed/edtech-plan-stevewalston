@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5674319&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-This Educational Technology Plan provides the outline for the implementation of a one-year high school computer science course that meets all of the current California Computer Science Standards.
+This Educational Technology Plan provides the outline for the implementation of a one-year high school computer science course that meets all of the current California Computer Science Standards and is approved as a University of California A-G course.
 
 ## Context
 
@@ -88,6 +88,9 @@ Samsung XE310XBA Chromebooks
 
 ### Application
 
+**Communication**
+
+Google Classroom will be used daily to post and maintain a record of the daily topics.  Information about assignments, due dates and methods of delivery will be addtional elements within each post.  Students will be able to send private messages to the teacher and publish public comments to the class regarding the daily post.
 
 
 ### Impacts
