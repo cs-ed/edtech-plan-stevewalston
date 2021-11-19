@@ -28,7 +28,7 @@ This course is an introduction to many facets of computer science and is intende
 
 ### McKinleyville High School
 
-McKinleyville High School is one of two comprehensive high schools in the Northern Humboldt Union High School District which serves approximately ##### students.  McKinleyville High's enrollment is #####.  The county is made up of a patchwork of small, often single school, districts and it is common that families shop around for the schools to attend.  The effect of this is that the enrollment at MHS has been in decline for years, with many students within our boundaries choosing to attend our sister high school due to a larger offering of courses especially within a robust fine arts program.  In recent years, MHS has added a few new courses such as architectural design and a culinary class.  One of our goals is to continue to offer new courses that will benefit our current students and attract new ones.
+McKinleyville High School is one of two comprehensive high schools in the Northern Humboldt Union High School District which serves approximately ##### students.  McKinleyville High's enrollment is #####.  The county is made up of a patchwork of small, often single school, districts and it is common that families shop around for the schools to attend.  The effect of this is that the enrollment at MHS has been in decline for years, with many students within our boundaries choosing to attend our sister high school due to a larger offering of courses, specifically a robust fine arts and makers program.  In recent years, MHS has added a few new courses such as an architectural design and a culinary class.  One of our goals is to continue to offer new courses that will benefit our current students and attract new ones.
 
 The current enrollment trend highlights one constraint.  After students register for classes, the process of creating a course schedule for the next school year is a complex puzzle.  Many courses such as advanced science and higher level language are only offered once each day so there are often conflicts when trying to find times for elective courses.  The end result is that it is quite possible that students interested in Computer Science would be unable to take the course if the time period conflicts with another they want.
 
@@ -88,19 +88,8 @@ Samsung XE310XBA Chromebooks
 
 ### Application
 
-[ Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy. ]
 
-Describe the pedagogy of/from CodeHS
 
 ### Impacts
 
-[ How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts. ]
 
-Pull from CDE resources
-
-Are there are "media" sources for quoting?
