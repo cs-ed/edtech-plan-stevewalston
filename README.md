@@ -102,12 +102,18 @@ CodeHS.com provides a thorough and organized curriculum for Computer Science.  T
    * To be watched as a class on the overhead screen
  * A check for understanding
    * To be completed individually
+   * Misunderstanings are clarified as a class
  * Example problems
-   * To be completed individually, as pairs or in groups
+   * Some to be done as guided practice
+   * Some to be completed individually, as pairs or in groups
+   * Students receive feedback
  * Exercises
    * To be completed individually, as pairs or in groups
+   * Students receive feedback
 
 Some lessons also contain Quizzes Free-response questions.  In addtion, teachers may add extra assignments to any unit through a simple interface.
+
+One of the powerful benefits of CodeHS.com is that the Checks, Examples and Exercises can be completed through the CodeHS.com course website or pre-printed for students to complete without web access
 
 
 ### Impacts
