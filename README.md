@@ -98,14 +98,15 @@ The district's school information system, Synergy, has been used for years and a
 **Content Delivery**
 
 CodeHS.com provides a thorough and organized curriculum for Computer Science.  The year-long course is divided into 11 units (chapters) and within each unit there are structure lessons.  A typical lesson contains:
- * A short information video
-   * a
+ * A short informational video
+   * To be watched as a class on the overhead screen
  * A check for understanding
-   * a
+   * To be completed individually
  * Example problems
-   * a
+   * To be completed individually, as pairs or in groups
  * Exercises
-   * a
+   * To be completed individually, as pairs or in groups
+
 Some lessons also contain Quizzes Free-response questions.  In addtion, teachers may add extra assignments to any unit through a simple interface.
 
 
