@@ -111,7 +111,7 @@ CodeHS.com provides a thorough and organized curriculum for Computer Science.  T
    * To be completed individually, as pairs or in groups
    * Students receive feedback
 
-Some lessons also contain Quizzes Free-response questions.  In addtion, teachers may add extra assignments to any unit through a simple interface.
+Some lessons also contain Quizzes and Free-response questions.  In addition, teachers may add extra assignments to any unit through a simple interface.
 
 One of the powerful benefits of CodeHS.com is that the Checks, Examples and Exercises can be completed through the CodeHS.com course website or pre-printed for students to complete without web access
 
