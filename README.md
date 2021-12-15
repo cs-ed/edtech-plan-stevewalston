@@ -62,7 +62,7 @@ The NHUHSD provides the following for students and teachers:
 Asus ExpertBook
  * Processor: 10th Gen Intel Core i7, 1.8 GHz Quad Core
  * Memory: 16 GB RAM
- * Storage: 512 GB SSD
+ * Storage Capacity: 471 GB of the 512 GB SSD 
  * Display: 14" FHD LED
  * Wireless: Wi-Fi 6 or 802.11ax
 
@@ -83,7 +83,7 @@ NEC PE455UL Projector
 Samsung XE310XBA Chromebooks
  * Processor: Intel Celeron, 1.1 GHz
  * Memory: 4 GB RAM
- * Storage: 32 GB SSD
+ * Storage Capacity: 16.4 GB of the 32 GB SSD
  * Display: 11.6" HD LED
  * Wireless: Gigabit Wi-Fi
 
