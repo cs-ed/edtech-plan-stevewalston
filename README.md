@@ -10,7 +10,7 @@ This Educational Technology Plan provides the outline for the implementation of 
 This course is an introduction to many facets of computer science and is intended for students in grades 10 through 12.  Focused on foundational concepts, students will further develop their logical thinking and problem-solving skills.  Upon successful completion of the course, students will understand and/or demonstrate:
   * The importance of Digital Citizenship
     * Cybersecurity
-    * Digital Footprint
+    * Digital Footprints
     * Privacy and Security
     * Information Literacy
   * Cryptography and Encryption Systems
@@ -61,7 +61,8 @@ The NHUHSD provides the following for students and teachers:
 
 Asus ExpertBook
  * Processor: 10th Gen Intel Core i7, 1.8 GHz Quad Core
- * Memory: 16 GB RAM, 512 GB SSD
+ * Memory: 16 GB RAM
+ * Storage: 512 GB SSD
  * Display: 14" FHD LED
  * Wireless: Wi-Fi 6 or 802.11ax
 
@@ -81,7 +82,8 @@ NEC PE455UL Projector
 
 Samsung XE310XBA Chromebooks
  * Processor: Intel Celeron, 1.1 GHz
- * Memory: 4 GB RAM, 32 GB SSD
+ * Memory: 4 GB RAM
+ * Storage: 32 GB SSD
  * Display: 11.6" HD LED
  * Wireless: Gigabit Wi-Fi
 
@@ -102,7 +104,7 @@ CodeHS.com provides a thorough and organized curriculum for Computer Science.  T
    * To be watched as a class on the overhead screen
  * A check for understanding
    * To be completed individually
-   * Misunderstanings are clarified as a class
+   * Misunderstandings are clarified as a class
  * Example problems
    * Some to be done as guided practice
    * Some to be completed individually, as pairs or in groups
