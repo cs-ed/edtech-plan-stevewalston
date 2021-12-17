@@ -128,10 +128,10 @@ CodeHS.com provides a thorough and organized curriculum for Computer Science.  T
      * Private comments through CodeHS or Google Classroom
 
 In regards to grading, students will earn points(marks) primarily through their efforts during class time.  Specifically:
-  * Active/engaged participation in the presentation and example problems section of each class.  Recorded by the teacher manually.
-  * Active/engaged participation in the exercises section.  Recorded by the teacher manually.
-  * Score(s) on submitted answers/results.  Recorded by the teacher manually.
-The recorded marks may then be combined and entered into the Synergy student information system so students, parents and school staff can see progress and comments.
+  * Active/engaged participation in the presentation and example problems section of each class.  Recorded by the teacher manually
+  * Active/engaged participation in the exercises section.  Recorded by the teacher manually
+  * Score(s) on submitted answers/results.  Recorded by the teacher manually
+The recorded marks will then be combined and entered into the Synergy student information system so students, parents and school staff can see progress and comments.
 
 Embedded in the above plan for daily class meetings, the overarching principle to Content Delivery is that of flexible and clear presentation of information.  Methods and principles to encourage student access to the content are:
   * Employing elements of the Signaling Principle through the use of pointers, highlighting, arrows and added text to focus students' attention to the critical information being presented
@@ -147,7 +147,7 @@ Another powerful feature of CodeHS.com is that the Checks, Examples and Exercise
 
 ### Impacts
 
-On the surface, through a course in Computer Science, students will learn problem solving and build the resiliency necessary to tackle future problems.  There is, however, much more to an education in computer science education than that.  Fields in which computers, technologies and coding are integrated are expanding and will require an informed and educated labor force.  With a computer science class as an inroad, students will gain the interest and confidence to pursue further studies and trainings.  Additionally, yet-to-be-created fields will emerge and will only be the result of curious and passionate individuals.  With technology related barriers being addressed and removed such as the ongoing efforts to expand high speed internet access, the next innovators may come from anywhere.  Students from rural locations, much like this one, are often myopic regarding career opportunities since they do not see how they can be part of innovative and vibrant economies as those economies are hundreds and hundreds of miles away.  This computer science course is an opportunity to narrow a digital divide.
+On the surface, through a course in Computer Science, students will learn problem solving, critical thinking skills and build the resiliency necessary to tackle future problems.  There is, however, much more to an education in computer science education than that.  Fields in which computers, technologies and coding are integrated are expanding and will require an informed and educated labor force.  With a computer science class as an inroad, students will gain the interest and confidence to pursue further studies and trainings.  Additionally, yet-to-be-created fields will emerge and will only be the result of curious and passionate individuals.  With technology related barriers being addressed and removed such as the ongoing efforts to expand high speed internet access, the next innovators may come from anywhere.  Students from rural locations, much like this one, are often myopic regarding career opportunities since they do not see how they can be part of innovative and vibrant economies as those economies are hundreds and hundreds of miles away.  This computer science course is an opportunity to narrow a digital divide.
 
 This course will provide equitable access and a computer sceince inroad for students at MHS in the following ways:
   * With the only prerequisite that of Tech Essentials there is no mathematical barrier for enrollment
