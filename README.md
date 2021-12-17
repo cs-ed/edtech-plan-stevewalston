@@ -104,25 +104,34 @@ CodeHS.com provides a thorough and organized curriculum for Computer Science.  T
    * To be watched as a class projected onto a whiteboard
  * A check for understanding
    * To be completed individually by students in one of three ways:
-     * Logged into the lesson materials in CodeHS on their individual Chromebooks, on pre-printed handouts, or written in their notebooks
-   * Misunderstandings are clarified as a class by annotating on the presenting computer or directly on the whiteboard where the projected image is
+     * Logged into the lesson resources in CodeHS on their individual Chromebooks, on pre-printed handouts, or written in their notebooks
+   * Misunderstandings are clarified as a class by annotating on the presenting computer, directly on the whiteboard over the projected image, or directly on the whiteboard
  * Example problems presented in varying ways, depending on needs, availability and time:
    * By projecting from CodeHS onto a whiteboard, by writing directly on the whiteboard, or by students filling in a pre-printed graphic organizer
    * Students will interact with sample problems through guided practice in one of three ways depending on needs, availability and time:
-     * Logged into the lesson materials in CodeHS on their indivifual Chromebooks, on pre-printed handouts, or written in their notebooks
+     * Logged into the lesson resources in CodeHS on their indivifual Chromebooks, on pre-printed handouts, or written in their notebooks
    * Students will then complete sample problems individually, as pairs or in groups depending on the specifics of the lesson in one of three ways depending on needs, availability and time:
-     * Logged into the lesson materials in CodeHS on their indivifual Chromebooks, on pre-printed handouts, or written in their notebooks
+     * Logged into the lesson resources in CodeHS on their indivifual Chromebooks, on pre-printed handouts, or written in their notebooks
    * Feedback will be provided throughout the practice time:
      * By the teacher to individual students, pairs or groups; by the teacher to the whole class; or by students to the whole class
-     * Feedback may be delivered by writing on the whiteboard, demonstrating and presenting from the teacher laptop, or by demonstrating and presenting from the student Chromebook
+     * Feedback may be delivered on the whiteboard, demonstrating and presenting from the teacher laptop, or by demonstrating and presenting from students' Chromebooks
  * Exercises
-   * To be completed individually, as pairs or in groups
-   * Students receive feedback
+   * To be completed individually, as pairs or in groups depending on the specifics of the lesson in one of three ways depending on needs, availability and time:
+     * Logged into the lesson resources in CodeHS on their indivifual Chromebooks, on pre-printed handouts, or written in their notebooks
+   * Students have opportunities to check their answers/results
+   * Students submit their answers/results for grading and feedback.  Depending on needs, availablity and time, submissions my be done in various manners:
+     * Digitally through CodeHS or Google Classroom assignments
+     * Paper copies turned in
+     * Notebooks turned in
+   * Feedback will be provided at the conclusion of the exercises and may include:
+     * Returned work with scores and comments
+     * Private comments through CodeHS or Google Classroom
 
 Some lessons also contain Quizzes and Free-response questions to vary the activities and learning opportunities during class periods.  A customisable feature of CodeHS.com is that teachers may add extra assignments, of varying types, to any unit through a simple interface.
 
 Another powerful feature of CodeHS.com is that the Checks, Examples and Exercises can be completed through the CodeHS.com course website digitally or pre-printed for students to complete 'off-line' affording the teacher added flexibilty during class time or to provide work for students who miss class due to illness, travel, short-term independent study, etc.
 
+As detailed above, an overarching principle to Content Delivery is that of flexible and clear presentation of information.  
 
 ### Impacts
 
