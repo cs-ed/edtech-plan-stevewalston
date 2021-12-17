@@ -91,20 +91,21 @@ Samsung XE310XBA Chromebooks
 
 **Communication**
 
-Google Classroom will be used daily to post and maintain a record of the daily topics.  Information about assignments, due dates and methods of submitting deliverables will be addtional elements within each post.  Students will be able to send private messages to the teacher and publish public comments to the class regarding the daily posts.
+Google Classroom will be used daily to post and maintain a record of the daily topics.  Information about assignments, due dates and methods of submitting deliverables will be additional elements within each post.  Students will be able to send private messages to the teacher and publish public comments to the class regarding the daily posts.
 
 Students will use other applications in the Google Workspace regularly.  The daily use of school email accounts is expected of all students for receiving school-related information and for communication with teachers and staff.  Google Drive will be actively used as the location to maintain school-related files.  Students will be expected to create Docments, Sheets, Slides, Forms and Groups in their Drive and upload photos or scans of their work to Drive to facilitate the submitting of deliverables.
 
-The district's school information system, Synergy, has been used for years and at this point in time, both students and parents are comfortable navigating within thier respective portals.  Synergy is the central location for all grade-related information and provides another method of initiating email communication.  Teachers regularly use Synergy for sending emails to combinations (whole-class or subgroups) of students and/or parents.  Synergy also provides up-to-date information for staff, academic counselors and administrators regarding student grades and any disciplinary communications with students that teachers log within the portal.
+The district's school information system, Synergy, has been used for years and at this point in time, both students and parents are comfortable navigating within thier respective portals.  Synergy is the central location for all grade-related information and provides another method of initiating email communication.  Teachers regularly use Synergy for sending emails to combinations (whole-class or subgroups) of students and/or parents.  Synergy also provides up-to-date information for staff, academic counselors and administrators regarding student grades and any discipline or behavior related communications with students that teachers log within the portal.
 
 **Content Delivery**
 
-CodeHS.com provides a thorough and organized curriculum for Computer Science.  The year-long course is divided into 11 units (chapters) and within each unit there are structure lessons.  A typical lesson contains:
+CodeHS.com provides a thorough and organized curriculum for Computer Science.  The year-long course is divided into 11 units (chapters) and within each unit there are structured lessons.  A typical lesson contains:
  * A short informational video
-   * To be watched as a class on the overhead screen
+   * To be watched as a class projected onto a whiteboard
  * A check for understanding
-   * To be completed individually
-   * Misunderstandings are clarified as a class
+   * To be completed individually:
+     * Students may be logged into CodeHS on their individual Chromebooks, on pre-printed handouts or in their notebooks depending on needs
+   * Misunderstandings are clarified as a class by annotating on the presenting computer or on the whiteboard where the projected image is
  * Example problems
    * Some to be done as guided practice
    * Some to be completed individually, as pairs or in groups
