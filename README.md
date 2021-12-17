@@ -133,11 +133,17 @@ In regards to grading, students will earn points(marks) primarily through their 
   * Score(s) on submitted answers/results.  Recorded by the teacher manually.
 The recorded marks may then be combined and entered into the Synergy student information system so students, parents and school staff can see progress and comments.
 
-Some lessons also contain Quizzes and Free-response questions to vary the activities and learning opportunities during class periods.  A customisable feature of CodeHS.com is that teachers may add extra assignments, of varying types, to any unit through a simple interface.
+Embedded in the above plan for daily class meetings, the overarching principle to Content Delivery is that of flexible and clear presentation of information.  Methods and principles to encourage student access to the content are:
+  * Employing the signaling principle through the use of pointers, highlighting, arrows and added text to focus students' attention to the critical information being presented
+  * Supporting student learning through dual-coding by providing pre-printed or digital graphic organizer so students may see and hear the critical information.  The application of pre-printed graphic organizers will be common as to allow the students organized off-line access to the material
+  * Recognizing student limitations to retain critical information by minimizing the areas where students need to focus at any given time.  With foundations in Cognitive Load Theory, students will regularly have one visual focus (the whiteboard, pre-printed handouts, or the Chromebook screen) and one source of narration (a video, the teacher speaking, or a student speaking)
+  * Transitions between the content, examples and exercises will be clearly communicated to help students with the management of information and materials
 
-Another powerful feature of CodeHS.com is that the Checks, Examples and Exercises can be completed through the CodeHS.com course website digitally or pre-printed for students to complete 'off-line' affording the teacher added flexibilty during class time or to provide work for students who miss class due to illness, travel, short-term independent study, etc.
+**Additional Elements of Content Delivery**
 
-As detailed above, an overarching principle to Content Delivery is that of flexible and clear presentation of information.  
+Some lessons in CodeHS also contain Quizzes and Free-response questions to vary the activities and learning opportunities during class periods.  There is also a customisable feature of CodeHS.com wherein teachers may add extra assignments, of varying types, to any unit through a simple interface.
+
+Another powerful feature of CodeHS.com is that the Checks, Examples and Exercises can either be completed through the CodeHS.com course website digitally or pre-printed for students to complete 'off-line' affording the teacher added flexibilty beyond class time.  Specifically, this supports students who miss class due to illness, travel, short-term independent study, etc.
 
 ### Impacts
 
