@@ -103,11 +103,12 @@ CodeHS.com provides a thorough and organized curriculum for Computer Science.  T
  * A short informational video
    * To be watched as a class projected onto a whiteboard
  * A check for understanding
-   * To be completed individually:
-     * Students may be logged into CodeHS on their individual Chromebooks, on pre-printed handouts or in their notebooks depending on needs
-   * Misunderstandings are clarified as a class by annotating on the presenting computer or on the whiteboard where the projected image is
- * Example problems
-   * Some to be done as guided practice
+   * To be completed individually by students in one of three ways:
+     * Logged into the lesson materials in CodeHS on their individual Chromebooks, on pre-printed handouts, or in their notebooks depending on needs
+   * Misunderstandings are clarified as a class by annotating on the presenting computer or directly on the whiteboard where the projected image is
+ * Example problems presented in varying ways, depending on the lesson:
+     * By projecting from CodeHS onto a whiteboard, by writing directly on the whiteboard, or by students filling in a pre-printed graphic organizer
+   * Students will interact with sample problems through guided practice
    * Some to be completed individually, as pairs or in groups
    * Students receive feedback
  * Exercises
