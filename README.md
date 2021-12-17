@@ -127,6 +127,12 @@ CodeHS.com provides a thorough and organized curriculum for Computer Science.  T
      * Returned work with scores and comments
      * Private comments through CodeHS or Google Classroom
 
+In regards to grading, students will earn points(marks) primarily through their efforts during class time.  Specifically:
+  * Active/engaged participation in the presentation and example problems section of each class.  Recorded by the teacher manually.
+  * Active/engaged participation in the exercises section.  Recorded by the teacher manually.
+  * Score(s) on submitted answers/results.  Recorded by the teacher manually.
+The recorded marks may then be combined and entered into the Synergy student information system so students, parents and school staff can see progress and comments.
+
 Some lessons also contain Quizzes and Free-response questions to vary the activities and learning opportunities during class periods.  A customisable feature of CodeHS.com is that teachers may add extra assignments, of varying types, to any unit through a simple interface.
 
 Another powerful feature of CodeHS.com is that the Checks, Examples and Exercises can be completed through the CodeHS.com course website digitally or pre-printed for students to complete 'off-line' affording the teacher added flexibilty during class time or to provide work for students who miss class due to illness, travel, short-term independent study, etc.
