@@ -134,9 +134,9 @@ In regards to grading, students will earn points(marks) primarily through their 
 The recorded marks may then be combined and entered into the Synergy student information system so students, parents and school staff can see progress and comments.
 
 Embedded in the above plan for daily class meetings, the overarching principle to Content Delivery is that of flexible and clear presentation of information.  Methods and principles to encourage student access to the content are:
-  * Employing the signaling principle through the use of pointers, highlighting, arrows and added text to focus students' attention to the critical information being presented
-  * Supporting student learning through dual-coding by providing pre-printed or digital graphic organizer so students may see and hear the critical information.  The application of pre-printed graphic organizers will be common as to allow the students organized off-line access to the material
-  * Recognizing student limitations to retain critical information by minimizing the areas where students need to focus at any given time.  With foundations in Cognitive Load Theory, students will regularly have one visual focus (the whiteboard, pre-printed handouts, or the Chromebook screen) and one source of narration (a video, the teacher speaking, or a student speaking)
+  * Employing elements of the Signaling Principle through the use of pointers, highlighting, arrows and added text to focus students' attention to the critical information being presented
+  * Supporting student learning through Dual-coding by providing pre-printed or digital graphic organizer so students may see and hear the critical information.  The application of pre-printed graphic organizers will be common as to allow the students to have off-line and organized access to the material
+  * Recognizing inherent limitations to retain critical information by minimizing the areas where students need to focus at any given time.  With foundations in Cognitive Load Theory, students will regularly have one visual focus (the whiteboard, pre-printed handouts, or the Chromebook screen) and one source of narration (a video, the teacher speaking, or a student speaking)
   * Transitions between the content, examples and exercises will be clearly communicated to help students with the management of information and materials
 
 **Additional Elements of Content Delivery**
