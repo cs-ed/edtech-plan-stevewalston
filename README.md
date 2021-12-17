@@ -147,4 +147,6 @@ Another powerful feature of CodeHS.com is that the Checks, Examples and Exercise
 
 ### Impacts
 
+On the surface, through a course in Computer Science, students will learn problem solving and build the resiliency necessary to tackle future problems.  There is, however, much more to a computer science education that that.  Fields in which computers, technologies and coding are integrated are expanding and will expect an informed and educated labor pool.  With a computer science class as an inroad, students will gain the interest and confidence to pursue further studies and trainings.  Additionally, there will be yet-to-be-created fields that can only be the result of curious and passionate individuals.  With barriers being addressed and removed such as the ongoing efforts to expand high speed internet access, the next innovators may come from anywhere.  Students from rural locations, much like this one, are often myopic regarding career opportunities.  
+
 
